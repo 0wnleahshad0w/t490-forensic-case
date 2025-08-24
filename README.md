@@ -12,6 +12,11 @@ Focus areas:
 - Attempted **SAM/SYSTEM** hive extraction (NTLM hashes)
 - Attempted deployment of **Autopsy** (Sleuthkit case manager)
 
+**Note:**  
+Some “Expected screenshots” listed below are workflow template placeholders.  
+Only a subset were captured during this case; others are left in place to show the intended documentation style.
+
+
 ## Environment
 - **Hardware:** Lenovo ThinkPad T490
 - **Live OS:** CAINE 14 (Starkane)
